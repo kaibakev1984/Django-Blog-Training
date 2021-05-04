@@ -24,5 +24,10 @@ Make sure to have installed `pip` and `virtualenv`.
 
 5. Get _local server link_ from output and launch it in your browser
 
+## Previous 
+
+![django blog](https://i.imgur.com/fQKcbvO.png)
+
+
 ## Notice
 This is a basic blog project. Actually in development...
