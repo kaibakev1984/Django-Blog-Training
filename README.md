@@ -7,7 +7,7 @@ Make sure to have installed `pip` and `virtualenv`.
 1. Download this repository and open terminal in project's folder. Type:
 
 ~~~ cpp
-  pip -m virtualenv env_django
+  python -m virtualenv env_django
 ~~~
 2. Active your virtual environment (more information [here](https://virtualenv.pypa.io/en/latest/user_guide.html#activators))
 3. Install dependencies from __requirements.txt__
