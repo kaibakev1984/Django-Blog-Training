@@ -1,6 +1,6 @@
 # Django Blog Training
 
-Make sure to have `pip`, `virtualenv`.
+Make sure to have installed `pip` and `virtualenv`.
 
 ## How to use
 
@@ -10,10 +10,10 @@ Make sure to have `pip`, `virtualenv`.
   pip -m virtualenv env_django
 ~~~
 2. Active your virtual environment (more information [here](https://virtualenv.pypa.io/en/latest/user_guide.html#activators))
-3. Install **Django**:
+3. Install dependencies from __requirements.txt__
 
 ~~~ cpp
-  pip install Django==3.2
+  pip install -r requirements.txt
 ~~~
 
 4. Open src and run server with...
