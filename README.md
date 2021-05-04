@@ -10,16 +10,19 @@ Make sure to have installed `pip` and `virtualenv`.
   pip -m virtualenv env_django
 ~~~
 2. Active your virtual environment (more information [here](https://virtualenv.pypa.io/en/latest/user_guide.html#activators))
-3. Install dependencies from __requirements.txt__
+3. Install dependencies from _requirements.txt_
 
 ~~~ cpp
   pip install -r requirements.txt
 ~~~
 
-4. Open src and run server with...
+4. Open _src_ and run server 
 
 ~~~ cpp
   python manage.py runserver
 ~~~
 
-5. Get __local server link__ from output and launch it in your browser
+5. Get _local server link_ from output and launch it in your browser
+
+## Notice
+This is a basic blog project. Actually in development...
